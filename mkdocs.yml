@@ -1,0 +1,17 @@
+site_name: "Internal Docs" 
+
+plugins: 
+  - awesome-nav 
+
+#nav: 
+#  - Home: index.md
+#  - Celebrate: Celebration.md
+#   - "**/*.md"
+#  - Home: index.md
+#  - API: api.md
+#  - Celebrate: Celebration.md
+#  - Internal Only: internal_only.md
+
+theme: 
+  name: material
+  
