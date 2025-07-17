@@ -1,0 +1,8 @@
+nav: 
+   - Internal Only: internal_only.md
+   - "*.md"
+   - CGT Tutorial: https://www.nas.nasa.gov/publications/software/docs/chimera/pages/scriptlib.html
+   - Deep Dirs: deep
+
+# Overrides nav
+ignore: "**/a*.md"
